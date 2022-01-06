@@ -1,0 +1,7 @@
+*.zip
+.DS_Store
+dataset*
+venv
+.ipynb_checkpoints
+*.h5
+input*
